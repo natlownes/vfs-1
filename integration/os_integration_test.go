@@ -9,7 +9,7 @@ import (
 
 	. "github.com/onsi/gomega"
 
-	. "github.com/natlownes/vfs"
+	. "github.com/vistarmedia/vfs"
 )
 
 type OsFsProvider struct {

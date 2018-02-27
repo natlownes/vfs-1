@@ -3,7 +3,7 @@ package integration
 import (
 	"fmt"
 
-	. "github.com/natlownes/vfs"
+	. "github.com/vistarmedia/vfs"
 )
 
 type MemFSProvider struct{}
